@@ -15,3 +15,4 @@ Project specifics: Our scenario will be that of a small orchard located about 30
 For Next Wednesday:
 You are a small IoT integration company that is interested in completing the above described system for Farmer Smith, and if successful, possibly commercializing the system as a turn-key for other small farms. You have an interview with the customer Wednesday the 28th during the scheduled CIT 581 IoT class period.  What would you need to know if you were a vendor trying to put together a solution for this customer and have an acceptable ROI on the project?  Put together a list of questions to ask during the interview.
 
+![ProjectDescription](./images/project_description.png)
