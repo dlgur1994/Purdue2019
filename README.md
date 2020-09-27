@@ -1,7 +1,10 @@
 # AgIoT_LoRa_vs_APRS
 CIT 581 IoT Fall 2019
+
 Semester project overview: Build a system to monitor a remote power generation station (solar and wind) and orchard for a “farmer” who lives 30 miles away.
+
 Background: Agricultural IoT is one of the most promising and potentially important areas of the IoT market.  It is also an excellent way to study the IoT ecosystem while making important contributions to a field of research that is critical to our world; food and raw materials production.  Purdue’s CIT Department has had several successful projects in this area, and there are numerous companies and organizations in Central Indiana (such as WHIN) putting large amount of resources into Ag IoT systems.  
+
 Project specifics: Our scenario will be that of a small orchard located about 30 miles from the “farmer”, who needs to monitor and receive pertinent data regarding fruit production, as well as monitoring the available alternative energy sources used to power irrigation, lighting and the IoT systems used for the project. The plan is to build an IoT system for a “Micro-Farm of the Future”.  Emphasis will be placed on the user interface and analytics that can quickly update the farmer on specific information that he needs to manage the farm and systems.  The specific sectors and topics that will be explored are as follows:
 1.	Soil conditions:  The mainstay of farming, being able to get important information about moisture, temperature, pH, and other factors over a large geographic area is critical to successful yields.
 2.	Weather information:  As important as soil conditions, weather information and outlook can make or break a year’s harvest.
